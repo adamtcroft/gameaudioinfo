@@ -12,7 +12,7 @@ Hi, I’m Adam T. Croft.  I’ve been working in various forms of audio and ente
 I’ve worked with Xbox, 343, EA, and Bungie internally, as well as other studios as an external resource.  I’ve written two books on how to break into a game audio career, launched multiple courses on audio and programming, mentored a ton of folks, and hired/built an entire team inside Bungie.
 
 ## Who can contribute?
-Anyone!  I’ve setup gameaudio.info as a page on GitHub internationally so that YOU can add to it.
+Anyone!  I’ve setup gameaudio.info as a page on GitHub internationally so that **YOU** can add to it.
 
 Is contributing as easy as writing in a Google Doc or wiki page?  Nope, but that too is intentional.
 
@@ -25,6 +25,24 @@ Don’t worry, if all that is foreign to you, I’ve included a guide.
 ## What skills do I need to start?
 
 ## What gear/software should I use?
+Before listing out equipment and software, let’s make one thing super clear - you probably have everything you already need to get started.
+
+If you have a phone and a pair of headphones, you can make music, sound effects, and voice over.  Will they be as perfect as someone who has years of experience and a big studio?  Of course not, but those expectations are unrealistic.
+
+Some of the most amazing content has been recorded on a phone, edited by laptops, and listened to on earbuds around the planet.  Expensive tools don’t MAKE you a better and more creative artist, they ease the pain and lessen the difficult you must endure to get a high quality product done quickly.
+
+So, **don’t go buying stuff yet** - there are plenty of free and cheap tools you can use right now.
+
+So, you’re likely to slowly invest in the following:
+
+### A DAW
+
+### An Audio Interface
+
+### Headphones
+
+### A Microphone
+
 
 ## How do I get the attention of AAA studios?
 
