@@ -55,6 +55,22 @@ Hi, I’m Adam T. Croft.  I’ve been working in various forms of audio and ente
 * SM58
 * Cheap Shotgun
 
+## Game Engines
+* Learn literally any game engine by making a simple demo game or participating 
+  in a game jam
+* You don't **need** to make a game, but you can, and if you do you then you 
+  should do it for fun
+* Unreal, Unity, Godot, or GameMaker can be great starting points
+
+## Audio Middleware
+* If you want to work in AAA, it's a near requirement to learn **Audiokinetic 
+  Wwise**
+* Some indies and Forza titles use FMOD
+* You can also consider not using Middleware for smaller and indie games
+
+## Source Control
+* The only thing you can learn for free is Git
+* Do some tutorials to learn the basics of GitHub and GitHub Desktop
 
 ## How do I get the attention of AAA studios?
 * Know where you want to work
