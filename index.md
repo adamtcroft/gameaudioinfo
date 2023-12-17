@@ -1,3 +1,4 @@
+# <span id="page-title">Test Title</span>
 # Welcome
 An epic page for game audio information
 
@@ -19,7 +20,7 @@ This page exists as
 
 <a id="who-created-this"></a>
 ## Who created this?
-Hi, I’m Adam T. Croft.  I’ve been working in various forms of audio and entertainment since 2005, and worked on my first video game in either 2010 or 2011 (Destiny before it was known as Destiny…)
+Hi, I’m [Adam T. Croft](https://adamtcroft.com).  I’ve been working in various forms of audio and entertainment since 2005, and worked on my first video game in either 2010 or 2011 (Destiny before it was known as Destiny…)
 
 I’ve worked with Xbox, 343, EA, and Bungie internally, as well as other studios as an external resource.  I’ve written two books on how to break into a game audio career, launched multiple courses on audio and programming, mentored a ton of folks, and hired/built an entire team inside Bungie.
 
