@@ -1,9 +1,9 @@
 # Welcome
 An epic page for game audio information
 
-#Table of Contents
-[What is this page?](#WhatIsThisPage)
-[Who is this page for?](#WhoIsThisPageFor)
+# Table of Contents
+* [What is this page?](#WhatIsThisPage)
+* [Who is this page for?](#WhoIsThisPageFor)
 
 ## What is this page?[](#){name=WhatIsThisPage}
 This page exists as 
