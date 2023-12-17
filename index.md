@@ -1,4 +1,3 @@
-# <span id="page-title">Test Title</span>
 # Welcome
 An epic page for game audio information
 
