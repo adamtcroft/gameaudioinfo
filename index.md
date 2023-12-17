@@ -5,9 +5,11 @@ An epic page for game audio information
 * [What is this page?](#WhatIsThisPage)
 * [Who is this page for?](#WhoIsThisPageFor)
 
+<a id="WhatIsThisPage"></a>
 ## What is this page? [](#){name=WhatIsThisPage}
 This page exists as 
 
+<a id="WhoIsThisPageFor"></a>
 ## Who is this page for? [](#){name=WhoIsThisPageFor}
 
 ## Who created this?
