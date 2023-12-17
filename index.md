@@ -5,10 +5,10 @@ An epic page for game audio information
 * [What is this page?](#WhatIsThisPage)
 * [Who is this page for?](#WhoIsThisPageFor)
 
-## What is this page?[](#){name=WhatIsThisPage}
+## What is this page? [](#){name=WhatIsThisPage}
 This page exists as 
 
-## Who is this page for?[](#){name=WhoIsThisPageFor}
+## Who is this page for? [](#){name=WhoIsThisPageFor}
 
 ## Who created this?
 Hi, I’m Adam T. Croft.  I’ve been working in various forms of audio and entertainment since 2005, and worked on my first video game in either 2010 or 2011 (Destiny before it was known as Destiny…)
