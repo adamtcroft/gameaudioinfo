@@ -2,21 +2,28 @@
 An epic page for game audio information
 
 # Table of Contents
-* [What is this page?](#WhatIsThisPage)
-* [Who is this page for?](#WhoIsThisPageFor)
+* [What is this page?](#what-is-this-page)
+* [Who is this page for?](#who-is-this-page-for)
+* [Who created this?](#who-created-this?)
+* [What skills do I need to start?](#what-skills-do-I-need-to-start)
+* [What gear/software should I use?](#what-gear-software-should-I-use)
+* [How do I get the attention of AAA studios?](#how-do-I-get-the-attention-of-AAA-studios)
+* [How do I get started in indie games?](#how-do-I-get-started-in-indie-games)
 
-<a id="WhatIsThisPage"></a>
-## What is this page? [](#){name=WhatIsThisPage}
+<a id="what-is-this-page"></a>
+## What is this page?
 This page exists as 
 
-<a id="WhoIsThisPageFor"></a>
-## Who is this page for? [](#){name=WhoIsThisPageFor}
+<a id="who-is-this-page-for"></a>
+## Who is this page for?
 
+<a id="who-created-this"></a>
 ## Who created this?
 Hi, I’m Adam T. Croft.  I’ve been working in various forms of audio and entertainment since 2005, and worked on my first video game in either 2010 or 2011 (Destiny before it was known as Destiny…)
 
 I’ve worked with Xbox, 343, EA, and Bungie internally, as well as other studios as an external resource.  I’ve written two books on how to break into a game audio career, launched multiple courses on audio and programming, mentored a ton of folks, and hired/built an entire team inside Bungie.
 
+<a id="who-can-contribute"></a>
 ## Who can contribute?
 Anyone!  I’ve setup gameaudio.info as a page on GitHub internationally so that **YOU** can add to it.
 
@@ -28,8 +35,10 @@ Git, however, and by proxy GitHub, are free and open to anyone.  To contribute t
 
 Don’t worry, if all that is foreign to you, I’ve included a guide.
 
+<a id="what-skills-do-I-need-to-start"></a>
 ## What skills do I need to start?
 
+<a id="what-gear-software-should-I-use"></a>
 ## What gear/software should I use?
 Before listing out equipment and software, let’s make one thing super clear - you probably have everything you already need to get started.
 
@@ -61,23 +70,24 @@ So, you’re likely to slowly invest in the following:
 * SM58
 * Cheap Shotgun
 
-## Game Engines
+### Game Engines
 * Learn literally any game engine by making a simple demo game or participating 
   in a game jam
 * You don't **need** to make a game, but you can, and if you do you then you 
   should do it for fun
 * Unreal, Unity, Godot, or GameMaker can be great starting points
 
-## Audio Middleware
+### Audio Middleware
 * If you want to work in AAA, it's a near requirement to learn **Audiokinetic 
   Wwise**
 * Some indies and Forza titles use FMOD
 * You can also consider not using Middleware for smaller and indie games
 
-## Source Control
+### Source Control
 * The only thing you can learn for free is Git
 * Do some tutorials to learn the basics of GitHub and GitHub Desktop
 
+<a id="what-gear-software-should-I-use"></a>
 ## How do I get the attention of AAA studios?
 * Know where you want to work
 * Make stuff a lot
@@ -86,6 +96,7 @@ So, you’re likely to slowly invest in the following:
 * Network in-person and online
 * Apply to jobs
 
+<a id="how-do-I-get-started-in-indie-games"></a>
 ## How do I get started in indie games?
 * Know what style of game you want to work on
 * Make stuff a lot
