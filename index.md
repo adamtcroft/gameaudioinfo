@@ -1,6 +1,3 @@
-# Welcome
-An epic page for game audio information
-
 # Table of Contents
 * [What is this page?](#what-is-this-page)
 * [Who is this page for?](#who-is-this-page-for)
