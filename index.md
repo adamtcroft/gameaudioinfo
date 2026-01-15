@@ -12,16 +12,28 @@ An epic page for game audio information
 
 <a id="what-is-this-page"></a>
 ## What is this page?
-This page exists as 
+
+This page is a resource for understanding game audio from the ground up. It is designed to provide learning materials and practical advice for:
+- **Young students** curious about a career in game audio.
+- **Audio professionals** making the leap from other industries, such as film, music, or broadcasting.
+
+The emphasis here is on **accessible, actionable learning**. Whether you're building your first demo reel or exploring advanced tools like Wwise, I hope you'll find guidance tailored to your needs.
+
+We’ve organized this page with sections to help you find exactly what you’re looking for:
+- Essential **skills and tools** to get started in game audio.
+- Recommendations for **software, hardware, and game engines**.
+- Strategies for breaking into **AAA studios** or the **indie scene**.
+
+Ready to dive in? Check out the links in the table of contents to get started.
 
 <a id="who-is-this-page-for"></a>
 ## Who is this page for?
 
 <a id="who-created-this"></a>
 ## Who created this?
-Hi, I’m [Adam T. Croft](https://adamtcroft.com).  I’ve been working in various forms of audio and entertainment since 2005, and worked on my first video game in either 2010 or 2011 (Destiny before it was known as Destiny…)
+Hi, I’m [Adam T. Croft](https://adamtcroft.com).  I’ve been working in various forms of audio and entertainment since 2005, and worked on my first video game in either 2010 or 2011 (Destiny be[...]
 
-I’ve worked with Xbox, 343, EA, and Bungie internally, as well as other studios as an external resource.  I’ve written two books on how to break into a game audio career, launched multiple courses on audio and programming, mentored a ton of folks, and hired/built an entire team inside Bungie.
+I’ve worked with Xbox, 343, EA, and Bungie internally, as well as other studios as an external resource.  I’ve written two books on how to break into a game audio career, launched multiple cou[...
 
 <a id="who-can-contribute"></a>
 ## Who can contribute?
@@ -29,9 +41,9 @@ Anyone!  I’ve setup gameaudio.info as a page on GitHub internationally so that
 
 Is contributing as easy as writing in a Google Doc or wiki page?  Nope, but that too is intentional.
 
-As game developers, at some point we’re required to learn to use a tool called “source control”.  Most big studios use a tool called Perforce.  It’s expensive and you have to host it yourself - so it’s not feasible to learn alone.
+As game developers, at some point we’re required to learn to use a tool called “source control”.  Most big studios use a tool called Perforce.  It’s expensive and you have to host it yours[...
 
-Git, however, and by proxy GitHub, are free and open to anyone.  To contribute to this page, the ONE significant requirement is that you learn enough about Git/source control concepts, that you learn to clone the repository, make a change, and push it.
+Git, however, and by proxy GitHub, are free and open to anyone.  To contribute to this page, the ONE significant requirement is that you learn enough about Git/source control concepts, that you le[...
 
 Don’t worry, if all that is foreign to you, I’ve included a guide.
 
@@ -42,9 +54,9 @@ Don’t worry, if all that is foreign to you, I’ve included a guide.
 ## What gear/software should I use?
 Before listing out equipment and software, let’s make one thing super clear - you probably have everything you already need to get started.
 
-If you have a phone and a pair of headphones, you can make music, sound effects, and voice over.  Will they be as perfect as someone who has years of experience and a big studio?  Of course not, but those expectations are unrealistic.
+If you have a phone and a pair of headphones, you can make music, sound effects, and voice over.  Will they be as perfect as someone who has years of experience and a big studio?  Of course not, b[...
 
-Some of the most amazing content has been recorded on a phone, edited by laptops, and listened to on earbuds around the planet.  Expensive tools don’t MAKE you a better and more creative artist, they ease the pain and lessen the difficult you must endure to get a high quality product done quickly.
+Some of the most amazing content has been recorded on a phone, edited by laptops, and listened to on earbuds around the planet.  Expensive tools don’t MAKE you a better and more creative artist,[...
 
 So, **don’t go buying stuff yet** - there are plenty of free and cheap tools you can use right now.
 
