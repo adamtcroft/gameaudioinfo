@@ -2,8 +2,12 @@
 * [What is this page?](#what-is-this-page)
 * [Who is this page for?](#who-is-this-page-for)
 * [Who created this?](#who-created-this?)
-* [What skills do I need to start?](#what-skills-do-I-need-to-start)
 * [What gear/software should I use?](#what-gear-software-should-I-use)
+* [What are the different roles in game audio?](#what-are-the-different-roles-in-game-audio)
+* [Do I need to learn to code?](#do-i-need-to-learn-to-code)
+* [Do I need a master's degree?](#do-i-need-a-masters-degree)
+* [What makes a good demo reel?](#what-makes-a-good-demo-reel)
+* [How do I actually "network"?](#how-do-i-actually-network)
 * [How do I get the attention of AAA studios?](#how-do-I-get-the-attention-of-AAA-studios)
 * [How do I get started in indie games?](#how-do-I-get-started-in-indie-games)
 
@@ -33,21 +37,6 @@ This page is designed to provide learning materials and practical advice for:
 Hi, I'm [Adam T. Croft](https://adamtcroft.com).  I've been working in various forms of audio and entertainment since 2005, and worked on my first video game in either 2010 or 2011 (Destiny be...]
 
 I've worked with Xbox, 343, EA, and Bungie internally, as well as other studios as an external resource.  I've written two books on how to break into a game audio career, launched multiple cou...
-
-<a id="who-can-contribute"></a>
-## Who can contribute?
-Anyone!  I've setup gameaudio.info as a page on GitHub internationally so that **YOU** can add to it.
-
-Is contributing as easy as writing in a Google Doc or wiki page?  Nope, but that too is intentional.
-
-As game developers, at some point we're required to learn to use a tool called "source control".  Most big studios use a tool called Perforce.  It's expensive and you have to host it yours...
-
-Git, however, and by proxy GitHub, are free and open to anyone.  To contribute to this page, the ONE significant requirement is that you learn enough about Git/source control concepts, that you le...
-
-Don't worry, if all that is foreign to you, I've included a guide.
-
-<a id="what-skills-do-I-need-to-start"></a>
-## What skills do I need to start?
 
 <a id="what-gear-software-should-I-use"></a>
 ## What gear/software should I use?
