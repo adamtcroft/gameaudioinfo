@@ -1,0 +1,100 @@
+# Plan to update gameaudioinfo GitHub page
+## Problem statement
+The current GitHub Pages landing content in `index.md` is a good early draft but does not yet clearly position itself (or you) the way you intend, has several incomplete sections, and does not fully lean into a cohesive, opinionated "getting into game audio" guide modeled after develop.games.
+## Current state
+* The site is a single-page document backed by `index.md`, with a top-level heading of "Table of Contents" and an in-page table of contents linking to anchor sections.
+* Implemented sections with meaningful content are:
+    * What is this page?
+    * Who is this page for?
+    * Who created this?
+    * What gear/software should I use?
+    * How do I get the attention of AAA studios?
+    * How do I get started in indie games?
+* The "What is this page?" section frames the site as a general resource for understanding game audio with an emphasis on accessible, actionable learning, but it does not yet explicitly say that it reflects your experience and point of view.
+* The tone is encouraging and practical but relatively brief compared to develop.games; sections tend to be short overviews or bullet lists rather than deep-scroll, narrative explanations with concrete examples.
+* Several items in the table of contents currently do not have corresponding sections implemented in `index.md`:
+    * What are the different roles in game audio?
+    * Do I need to learn to code?
+    * Do I need a master's degree?
+    * What makes a good demo reel?
+    * How do I actually "network"?
+* There is no separate README; `index.md` appears to serve as both the repo homepage for GitHub Pages and the main content hub for the resource.
+* The page does not yet include links out to your broader work (e.g., books, store) that could give motivated readers deeper dives.
+## Goals
+* Clearly position the page as an authoritative, practical, opinionated guide to breaking into game audio, grounded in your experience.
+* Preserve the accessible, low-barrier tone while adding more depth and concrete, experience-based guidance, similar in spirit to develop.games but focused on audio.
+* Bring all table-of-contents entries to a "minimum complete" state so that no link feels like a stub.
+* Set the page up structurally so it can grow over time without becoming confusing or hard to navigate.
+* Reuse concepts and structure from "Quit Aspiring, Vol. 2" selectively (e.g., headings, key points) without trying to import the whole book.
+## Proposed content and structure changes
+### 1. Reframe the page header and intro
+* Change the top of `index.md` from a bare "Table of Contents" heading into the working title "A large repository to help you break into game audio", with the table of contents directly underneath (we can revise this later if you want).
+* Update the "What is this page?" section to:
+    * Emphasize that this is a curated, evolving guide to game audio careers.
+    * Let your authorship be carried implicitly (e.g., through the "Who created this?" section and tone) rather than calling out maintenance explicitly.
+    * Set expectations about scope: focused on practical steps, not a full textbook or encyclopedia.
+### 2. Clarify audience and use-cases
+* Refine "Who is this page for?" to call out the main personas explicitly (e.g., students, career switchers from music/film, self-taught hobbyists who are game-first and audio-second).
+* Add a short "How to use this page" paragraph that:
+    * Suggests a starting path for brand-new people (e.g., read roles → tools → demo reel → networking).
+    * Suggests a different path for existing audio pros (e.g., skim roles → demo reel → AAA vs indie → networking).
+### 3. Strengthen your author voice and credibility section
+* Expand "Who created this?" to be a concise but more complete summary of your experience, focusing on:
+    * Years in audio and entertainment.
+    * Notable game studios and roles.
+    * Books/courses you have created about game audio careers (including "Quit Aspiring" volumes).
+* Optionally include a small author photo using a local image asset and standard Markdown image syntax.
+* Tighten the language so it feels conversational and distinctly in your voice (first-person, direct, candid) while staying compact.
+### 4. Make all table-of-contents sections real and self-contained
+For each currently missing or stubbed section, create a minimum-viable but useful block that combines a high-level explanation with concrete, actionable guidance. In the first pass, these can be primarily bullet-based stubs that we can deepen later.
+* What are the different roles in game audio?
+    * Briefly define key roles: sound designer, technical sound designer, composer, audio programmer, VO director/producer, audio lead, etc.
+    * For each, give 1–2 sentences or bullets on what they actually do day-to-day and a simple way to explore whether that role fits the reader.
+* Do I need to learn to code?
+    * Explain when coding is optional versus strongly beneficial (e.g., technical sound design, audio programming, tools work).
+    * Provide simple, non-intimidating starting points if they choose to learn (basic scripting, engine integration tasks).
+* Do I need a master's degree?
+    * Clarify how degrees are viewed in game audio hiring versus portfolios, experience, and soft skills.
+    * Offer guidance for people considering school: when it might help, when it is overkill, what to prioritize if they go.
+* What makes a good demo reel?
+    * Lay out a focused, opinionated checklist of qualities (length, clarity, variety, context, audio levels, credits).
+    * Suggest a concrete first-demo-reel project plan (e.g., 3–5 short clips with specific time targets and game genres).
+* How do I actually "network"?
+    * Demystify networking as "building genuine professional relationships" rather than transactional cold outreach.
+    * Provide specific behaviours and channels (Discord, conferences, online communities, game jams) and a few example scripts.
+### 5. Light touch on existing sections (for this pass)
+* What gear/software should I use?
+    * Keep the "start with what you have" philosophy and existing recommendations.
+    * Optionally tighten phrasing and headings for clarity, without significantly expanding length.
+* How do I get the attention of AAA studios? / How do I get started in indie games?
+    * Keep current bullet lists as the core content.
+    * Make only small edits for clarity or consistency if needed; deeper expansion can be a later iteration.
+### 6. Add subtle links to your broader work
+* In "Who created this?" or near the bottom of the page, include links to your site/store (e.g., nir.media) and specifically to "Quit Aspiring, Vol. 1" and "Quit Aspiring, Vol. 2" as optional, deeper-dive resources.
+* Keep this lightweight and non-salesy so the primary focus remains on the free guide.
+### 7. Integrate selected "Quit Aspiring, Vol. 2" themes into the structure
+* Add a "Should you pursue a career in game audio?" section near the top that captures core ideas from Section 1 of the book:
+    * Questions to help people distinguish liking *making* games from liking *playing* them.
+    * Realistic timelines for landing a first job.
+    * Tradeoffs around moving to major hubs, international hiring, and age.
+* In the learning/skills area, fold in concepts from Section 2:
+    * Differences between linear and interactive audio.
+    * The main game audio job types and the importance of picking one to focus on.
+    * Simple next-step discovery and dealing with overwhelm.
+    * Why soft skills matter at least as much as audio skills.
+* In the "getting attention" and reel/networking sections, bring in key ideas from Section 3:
+    * Demonstrating AAA-like experience when you have none.
+    * Networking as making friends online and in-person (including how to actually enjoy it).
+    * Website fundamentals, reel must-haves, and resume/cover-letter best practices.
+    * The likelihood of starting with contract work and how to think about that.
+* Optionally add a later section on interviews and long-term career health, echoing Section 4:
+    * Assumptions to avoid in interviews and how to prepare.
+    * What to do after interviews, how to think about compensation, and how to handle rejection.
+    * Why game audio careers remain somewhat unstable and why long-term satisfaction comes from trust and relationships, not just landing the first job.
+## Implementation approach
+* Work only in `index.md` for now, preserving the current anchor structure while updating headings and section text so that every table-of-contents link points to a real, useful section.
+* Iterate section by section in small, reviewable chunks so we can tune voice and level of detail before expanding further.
+* Use the table of contents and selected chapters from "Quit Aspiring, Vol. 2" as inspiration for headings and bullet content instead of trying to mirror the book exactly.
+* After the first pass, review the full page for flow, tone consistency, and redundancy, trimming or consolidating where needed while keeping navigation simple and predictable.
+* Create a `README.md` that mirrors the main site text (or a lightly condensed version) so the guide is fully readable from the GitHub repo, and keep it in sync with `index.md` when making edits.
+* Once you are happy with the structure and baseline content, consider a later phase to split very large sections into subpages if the document starts to feel too long for a single scroll, but keep everything in one file for this initial iteration.
